@@ -1,3 +1,3 @@
 import './style.css';
-import '/chart.js';
+import './chart.js';
 
